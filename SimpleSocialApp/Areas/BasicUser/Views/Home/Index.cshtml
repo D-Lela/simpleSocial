@@ -1,0 +1,21 @@
+﻿@model IEnumerable<SimpleSocial.Models.Post>
+
+<div class="row pb-3">
+    @foreach(var post in Model)
+    {
+        <div class="col-lg-3 col-md-6">
+            <div class="row p-2">
+                <div class="col-12 p-1" style="border:1px solid #008cba; boreder-radius:5px;">
+                    <div class="card">
+                        <img src="@post.ImageUrl" class="card-img-top rounded"/>
+                        <div class="pl-1">
+                            <p class="card-title h5 text-primary">@post.Title</p>
+                            <p class="card-title text-secondary">@post.ApplicationUser.Name</p>
+                            <p class="card-title text-secondary">@post.Created</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

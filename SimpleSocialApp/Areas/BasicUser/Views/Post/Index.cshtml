@@ -1,0 +1,18 @@
+﻿<div class="container p-3">
+<a asp-controller="Post" asp-action="Upsert" class="btn btn-primary">
+    New post
+</a>
+<table id="tblData" class="table table-bordered table-striped" style="width:100%">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Created</th>
+            <th>Posted by</th>
+            <th></th>
+        </tr>
+    </thead>
+</table>
+</div>
+@section Scripts{
+    <script src="~/js/post.js"></script>
+}

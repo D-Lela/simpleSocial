@@ -1,0 +1,15 @@
+C:\Users\Duje1\OneDrive\Radna površina\SimpleSocial\SimpleSocial.DataAccess\bin\Debug\net6.0\SimpleSocial.DataAccess.deps.json
+C:\Users\Duje1\OneDrive\Radna površina\SimpleSocial\SimpleSocial.DataAccess\bin\Debug\net6.0\SimpleSocial.DataAccess.dll
+C:\Users\Duje1\OneDrive\Radna površina\SimpleSocial\SimpleSocial.DataAccess\bin\Debug\net6.0\SimpleSocial.DataAccess.pdb
+C:\Users\Duje1\OneDrive\Radna površina\SimpleSocial\SimpleSocial.DataAccess\obj\Debug\net6.0\SimpleSocial.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Duje1\OneDrive\Radna površina\SimpleSocial\SimpleSocial.DataAccess\obj\Debug\net6.0\SimpleSocial.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duje1\OneDrive\Radna površina\SimpleSocial\SimpleSocial.DataAccess\obj\Debug\net6.0\SimpleSocial.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Duje1\OneDrive\Radna površina\SimpleSocial\SimpleSocial.DataAccess\obj\Debug\net6.0\SimpleSocial.DataAccess.AssemblyInfo.cs
+C:\Users\Duje1\OneDrive\Radna površina\SimpleSocial\SimpleSocial.DataAccess\obj\Debug\net6.0\SimpleSocial.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Duje1\OneDrive\Radna površina\SimpleSocial\SimpleSocial.DataAccess\obj\Debug\net6.0\SimpleSocial.DataAccess.dll
+C:\Users\Duje1\OneDrive\Radna površina\SimpleSocial\SimpleSocial.DataAccess\obj\Debug\net6.0\refint\SimpleSocial.DataAccess.dll
+C:\Users\Duje1\OneDrive\Radna površina\SimpleSocial\SimpleSocial.DataAccess\obj\Debug\net6.0\SimpleSocial.DataAccess.pdb
+C:\Users\Duje1\OneDrive\Radna površina\SimpleSocial\SimpleSocial.DataAccess\obj\Debug\net6.0\ref\SimpleSocial.DataAccess.dll
+C:\Users\Duje1\OneDrive\Radna površina\SimpleSocial\SimpleSocial.DataAccess\bin\Debug\net6.0\SimpleSocial.Models.dll
+C:\Users\Duje1\OneDrive\Radna površina\SimpleSocial\SimpleSocial.DataAccess\bin\Debug\net6.0\SimpleSocial.Models.pdb
+C:\Users\Duje1\OneDrive\Radna površina\SimpleSocial\SimpleSocial.DataAccess\obj\Debug\net6.0\SimpleSocial.DataAccess.csproj.CopyComplete
